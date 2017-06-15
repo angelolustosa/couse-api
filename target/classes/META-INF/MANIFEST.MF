@@ -4,7 +4,7 @@ Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: ANGELUS_DELL
 Implementation-Vendor-Id: com.springbootquickstart
 Build-Jdk: 1.8.0_131
-Implementation-URL: http://projects.spring.io/spring-boot/couse-api/
+Implementation-URL: http://projects.spring.io/spring-boot/course-api/
 Created-By: Maven Integration for Eclipse
 Implementation-Vendor: Pivotal Software, Inc.
 
